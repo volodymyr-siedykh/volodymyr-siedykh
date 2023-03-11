@@ -1,4 +1,4 @@
-# Volodymyr | Front-End Developer & UX/UI Designer
+# Volodymyr Siedykh | Front-End Developer & UX/UI Designer
 
 👋 Hey there! I'm Volodymyr, a skilled Front-End Developer and UX/UI Designer based in Ukraine with 3+ years of experience.
 
